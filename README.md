@@ -6,6 +6,6 @@
 
 ### 使用命令
 
-* **cd ~/Downloads && git clone https://github.com/ThomasShuYe/IDA7.0CarchFixForInputMethod.git && ./IDA7.0CarchFixForInputMethod/IDA7.0FixCarch.sh**
+* **cd ~/Downloads && git clone https://github.com/ThomasShuYe/IDA7.0CarchFixForInputMethod-macOS.git && ./IDA7.0CarchFixForInputMethod-macOS/IDA7.0FixCarch.sh**
 
 
