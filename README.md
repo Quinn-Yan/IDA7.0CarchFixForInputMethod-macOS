@@ -1,4 +1,5 @@
 # IDA7.0CarchFixForInputMethod-macOS
+![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)
 
 ### 说明
 * **Mac 系统升级到10.14.1后，打开IDA时出现以下问题：**
