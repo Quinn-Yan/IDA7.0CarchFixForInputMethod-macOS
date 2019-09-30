@@ -18,7 +18,7 @@ fi
 
 if [[ "$result" == 'y' ]]; then
     cp -r "${shell_path}/libqcocoa.dylib" "$app_bundle_path"
-    echo -e "\n\修复完成" 
+    echo -e "\n\Fix Done" 
 fi
 
 
